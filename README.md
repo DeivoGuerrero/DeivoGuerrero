@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Renewable energy projects
 - 📫 How to reach me ...
-  M@il: deivo.guerrer@gmail.com
+  M@il: deivo.guerrero@gmail.com
   TW & IG: @deivoguerrero
   
 
