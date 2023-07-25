@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @DeivoGuerrero
-- 👀 I’m interested in ... learn more
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Renewable energy projects
+- 👋 Hi, I’m @DeivoGuerrero, my real name is David.
+- 👀 I’m interested in renewable energy projects
 - 📫 How to reach me ...
   M@il: deivo.guerrero@gmail.com
   TW & IG: @deivoguerrero
