@@ -12,7 +12,6 @@
 
 <br>
 
-## 👨‍💻 About me
 - 🇨🇴 I'm from Pasto, Colombia.  
 - 🎓 Systems Engineer | Cybersecurity Specialist.  
 - 🔐 4+ years of experience executing, automating and collecting cybersecurity controls for SOX compliance.  
