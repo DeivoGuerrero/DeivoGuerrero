@@ -24,8 +24,6 @@
 <br>
 
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
-
- ## Software & Tools
  - Python, Django, Flask
  - Docker, Linux, Bash
  - QRadar, IBM Resilient, Wireshark
