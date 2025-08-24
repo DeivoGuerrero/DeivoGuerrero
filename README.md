@@ -22,6 +22,24 @@
 	<a href="https://www.linkedin.com/in/guerreromedicis/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br>
 
+## 🚀 Habilidades Técnicas  
+
+- **Scripting y Automatización** → Python, Bash y PowerShell (aplicado a ciberseguridad y automatización de tareas administrativas).  
+- **Gestión de Bases de Datos** → Oracle, MySQL y MSSQL (consultas, administración básica y optimización).  
+- **Normativas y Cumplimiento** → ISO 27001 (Implementador certificado), PCI DSS y SOX (experiencia en auditorías y controles de seguridad).  
+- **Sistemas Operativos** → Administración de entornos Linux y servidores.  
+- **Análisis de Datos** → Extracción, procesamiento y visualización de información con herramientas y scripting.  
+- **Ofimática Avanzada** → Excel, Word, PowerPoint (aplicados a reportes y gestión de proyectos).  
+
+---
+
+## 🤝 Habilidades Blandas  
+
+- **Liderazgo y gestión de equipos** → coordinación de proyectos y soporte en la toma de decisiones estratégicas.  
+- **Comunicación efectiva** → transmisión clara de hallazgos técnicos a perfiles no técnicos (ejecutivos, auditores, clientes).  
+- **Gestión de proyectos de seguridad** → planificación, ejecución y seguimiento bajo marcos de cumplimiento.  
+- **Documentación y redacción clara** → elaboración de políticas, procedimientos y reportes de auditoría.  
+
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  - Python, Django, Flask
  - Docker, Linux, Bash
