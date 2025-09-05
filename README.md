@@ -23,8 +23,8 @@
 
 ## 🚀 Habilidades Técnicas  
 
-- **Scripting y Automatización** → Python, Bash y PowerShell (aplicado a ciberseguridad y automatización de tareas administrativas).  
-- **Gestión de Bases de Datos** → Oracle, MySQL y MSSQL (consultas, administración básica y optimización).  
+- **Scripting y Automatización** → Python, Bash y PowerShell.  
+- **Gestión de Bases de Datos** → Oracle, MySQL y MSSQL.  
 - **Normativas y Cumplimiento** → ISO 27001 (Implementador certificado), PCI DSS y SOX (experiencia en auditorías y controles de seguridad).  
 - **Sistemas Operativos** → Administración de entornos Linux y servidores.  
 - **Análisis de Datos** → Extracción, procesamiento y visualización de información con herramientas y scripting.  
